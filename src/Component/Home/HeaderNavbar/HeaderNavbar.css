@@ -1,0 +1,15 @@
+#basic-navbar-nav{
+    text-align:center;
+}
+@media only screen and (max-width:991px){
+    .my-nav-link{
+        border-bottom:1px solid rgba(17, 86, 109, 0.883);
+    }
+    .home-link{
+        margin-top:15px;
+        border-top:1px solid rgb(202, 197, 202);
+    }
+}
+.my-nav-link:hover{
+    border-bottom: 3px solid rgb(4, 221, 4);
+}
